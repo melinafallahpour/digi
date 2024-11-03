@@ -201,34 +201,22 @@
         Home page
     </li>
 </ul>
-  <img src="https://github.com/MohammadReza96/Djshop_django/assets/108836322/de6aa20d-9da2-4756-bd2c-3725e1659ee6" alt="Product Name Screen Shot" style="max-width: 100%;">
-<hr>
-<ul dir="auto">
-    <li id="favorite-page">
-        Favorite page
-    </li>
-</ul>
-<img src="https://github.com/MohammadReza96/Djshop_django/assets/108836322/90b60b9d-007c-4b98-97eb-564cb3981534" alt="Product Name Screen Shot" style="max-width: 100%;">
+  <img src="https://github.com/melinafallahpour/digi/blob/main/media/images/homepage.jpeg" alt="Product Name Screen Shot" style="max-width: 100%;">
 <hr>
 <ul dir="auto">
     <li id="order-page">
         Order page
     </li>
 </ul>
-<img src="https://github.com/MohammadReza96/Djshop_django/assets/108836322/2643f0da-1ab2-4bd8-8730-7aa514b4a7b6" alt="Product Name Screen Shot" style="max-width: 100%;">
+<img src="https://github.com/melinafallahpour/digi/blob/main/media/images/orderpage.jpeg" alt="Product Name Screen Shot" style="max-width: 100%;">
 <hr>
 <ul dir="auto">
     <li id="compare-page">
         Compare page
     </li>
 </ul>
-<img src="https://github.com/MohammadReza96/Djshop_django/assets/108836322/383c5ca9-d54e-4abd-b1de-c9ed55294f19" alt="Product Name Screen Shot" style="max-width: 100%;">
+<img src="https://github.com/melinafallahpour/digi/blob/main/media/images/comparepege.jpeg" alt="Product Name Screen Shot" style="max-width: 100%;">
 <hr>
-<ul dir="auto">
-    <li id="userpanel-page">
-        userpanel purchase history page
-    </li>
-</ul>
-<img src="https://github.com/MohammadReza96/Djshop_django/assets/108836322/e298ac58-aefe-410e-bcd6-ffab1add3579" alt="Product Name Screen Shot" style="max-width: 100%;">
+
 
 
